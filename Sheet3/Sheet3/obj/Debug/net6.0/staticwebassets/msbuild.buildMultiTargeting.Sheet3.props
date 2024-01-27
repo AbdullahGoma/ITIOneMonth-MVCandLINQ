@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sheet3.props" />
+</Project>

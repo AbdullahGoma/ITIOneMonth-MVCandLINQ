@@ -1,0 +1,14 @@
+F:\MVC\LINQ\bin\Debug\net7.0\LINQ.exe
+F:\MVC\LINQ\bin\Debug\net7.0\LINQ.deps.json
+F:\MVC\LINQ\bin\Debug\net7.0\LINQ.runtimeconfig.json
+F:\MVC\LINQ\bin\Debug\net7.0\LINQ.dll
+F:\MVC\LINQ\bin\Debug\net7.0\LINQ.pdb
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfoInputs.cache
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.AssemblyInfo.cs
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.csproj.CoreCompileInputs.cache
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.dll
+F:\MVC\LINQ\obj\Debug\net7.0\refint\LINQ.dll
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.pdb
+F:\MVC\LINQ\obj\Debug\net7.0\LINQ.genruntimeconfig.cache
+F:\MVC\LINQ\obj\Debug\net7.0\ref\LINQ.dll
